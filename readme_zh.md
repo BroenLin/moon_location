@@ -12,8 +12,8 @@ pip install -r requirements.txt
 ```
 - torch 是运行匹配算法的核心依赖。
 - 可通过 PyTorch 官网（https://pytorch.org/）下载适配版本。
-```
 
+---
 
 ## 二、Running（运行）
 ### 方式一：直接启动软件界面
@@ -27,4 +27,5 @@ python main.py
 
 
 要不要我帮你补充**环境配置常见问题排查清单**，或优化命令行代码的格式排版？
+
 
